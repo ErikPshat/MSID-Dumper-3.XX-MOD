@@ -1,5 +1,5 @@
-# MSID-Dumper-3.XX-MOD-RUS
-MSID Dumper 3.XX MOD RUS
+# MSID-Dumper-3.XX-MOD
+MSID Dumper 3.XX MOD
 
 This dumps the ID of a MemoryStick using a Playstation Portable
 
